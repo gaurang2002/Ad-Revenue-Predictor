@@ -16,8 +16,7 @@
   - Optuna for Bayesian Hyperparameter tuning
   - GridSearchCV
   - Out of the above two optuna "Bayesian Hyperparameter tuning" manage to hypertune the parameters more effciently ,we decided to use each prediction as final submission
-  - [Revenue Prediction](https://www.kaggle.com/gaurangthakur/revenue-generation)
-
+  
 ## Scope for Improvement:
 1. Better Feature engineering can be done.
 2. Better split size of validation and training dataset could have give better results
